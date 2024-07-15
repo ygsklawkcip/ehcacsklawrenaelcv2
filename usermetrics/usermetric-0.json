@@ -2,9 +2,9 @@
     "ExampleTopKey": "ExampleTopValue",
     "TotalNumberOfLitterPicks": 100,
     "MostLitterFoundInBoundary": "1",
-    "Boundary": [
+    "Boundaries": [
         {
-            "id": "1",
+            "Id": "1",
             "Name": "NorthEastLincolnshire",
             "CollectedLitterLiters": 10.5,
             "PickHistory": [
