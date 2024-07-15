@@ -8,27 +8,51 @@
             "Name": "NorthEastLincolnshire",
             "CollectedLitterLiters": 10.5,
             "PickHistory": [
+			    {
+                    "DateTime": "2024-07-04T19:55:55.995Z",
+                    "SiteId": "1824",
+                    "WardId": "15"
+                },
                 {
+                    "DateTime": "2024-07-09T10:27:35.995Z",
+                    "SiteId": "1824",
+                    "WardId": "15"
+                },
+				{
                     "DateTime": "2024-07-14T15:47:35.995Z",
                     "SiteId": "1824",
                     "WardId": "15"
+                },
+				{
+                    "DateTime": "2024-07-15T09:15:00.995Z",
+                    "SiteId": "2060",
+                    "WardId": "13"
                 }
             ],
-            "TotalPicks": 1,
+            "TotalPicks": 4,
             "SiteHistory": [
                 {
                     "SiteId": "1824",
-                    "PickCount": 1,
+                    "PickCount": 3,
                     "BagsFull": 2.75
+                },
+				{
+                    "SiteId": "2060",
+                    "PickCount": 1,
+                    "BagsFull": 1.00
                 }
             ],
             "WardHistory": [
                 {
                     "WardId": "15",
+                    "PickCount": 3
+                },
+				{
+                    "WardId": "13",
                     "PickCount": 1
                 }
             ],
-            "TopSite": 1260,
+            "TopSite": 1824,
             "TopWard": 15,
             "ReportHistory": [
                 {
