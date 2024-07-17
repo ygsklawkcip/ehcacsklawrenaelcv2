@@ -1,6 +1,6 @@
 {
     "id": "102288145491613499065",
-    "ExampleTopKey": null,
+    "lastRefreshDateTime": "2024-07-17T21:43:25.369Z",
     "totalNumberOfLitterPicks": 4,
     "totalCollectedLitterLiters": 8,
     "MostLitterFoundInBoundary": null,
@@ -54,12 +54,22 @@
                     "totalBagsFull": 1
                 }
             ],
-            "topWard": null
+            "topLitterPickedWard": "15",
+            "topBagsFullWard": 13,
+            "landTypesVisited": [
+                {
+                    "id": 1,
+                    "count": 5
+                },
+                {
+                    "id": 2,
+                    "count": 12
+                },
+                {
+                    "id": 5,
+                    "count": 1
+                }
+            ]
         }
-    ],
-    "_rid": "7zoyAKz6APUNAAAAAAAAAA==",
-    "_self": "dbs/7zoyAA==/colls/7zoyAKz6APU=/docs/7zoyAKz6APUNAAAAAAAAAA==/",
-    "_etag": "\"1d003e56-0000-1100-0000-6697e4050000\"",
-    "_attachments": "attachments/",
-    "_ts": 1721230341
+    ]
 }
