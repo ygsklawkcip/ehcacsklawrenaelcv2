@@ -1,70 +1,65 @@
 {
-    "ExampleTopKey": "ExampleTopValue",
-    "TotalNumberOfLitterPicks": 100,
-    "MostLitterFoundInBoundary": "1",
+    "id": "102288145491613499065",
+    "ExampleTopKey": null,
+    "totalNumberOfLitterPicks": 4,
+    "totalCollectedLitterLiters": 8,
+    "MostLitterFoundInBoundary": null,
     "Boundaries": [
         {
-            "Id": "1",
-            "Name": "NorthEastLincolnshire",
-            "CollectedLitterLiters": 10.5,
-            "PickRecap": [
+            "id": "278d4c6c-c2e1-4d8d-a8e7-49e71ef8183c",
+            "name": "North East Lincolnshire",
+            "totalCollectedLitterLiters": 8,
+            "pickRecap": [
                 {
-                    "DateTimeString": "2024-07-04T19:55:55.995Z",
-                    "SiteId": "1824",
-                    "WardId": "15"
+                    "DateTime": "2024-07-17T13:57:25.369Z",
+                    "dateTimeString": "2024-07-17T13:57:25.369Z",
+                    "siteId": "1284",
+                    "wardId": "0"
                 },
                 {
-                    "DateTimeString": "2024-07-09T10:27:35.995Z",
-                    "SiteId": "1824",
-                    "WardId": "15"
+                    "DateTime": "2024-07-17T14:58:11.684Z",
+                    "dateTimeString": "2024-07-17T14:58:11.684Z",
+                    "siteId": "3383",
+                    "wardId": "0"
                 },
                 {
-                    "DateTimeString": "2024-07-14T15:47:35.995Z",
-                    "SiteId": "1824",
-                    "WardId": "15"
+                    "DateTime": "2024-07-17T15:06:32.172Z",
+                    "dateTimeString": "2024-07-17T15:06:32.172Z",
+                    "siteId": "7948",
+                    "wardId": "0"
                 },
                 {
-                    "DateTimeString": "2024-07-15T09:15:00.995Z",
-                    "SiteId": "2060",
-                    "WardId": "13"
+                    "DateTime": "2024-07-17T15:10:25.52Z",
+                    "dateTimeString": "2024-07-17T15:10:25.520Z",
+                    "siteId": "3383",
+                    "wardId": "0"
                 }
             ],
-            "SiteRecap": [
+            "topLitterPickedSite": "3383",
+            "topBagsFullSite": "1284",
+            "siteRecap": [
                 {
-                    "SiteId": "1824",
-                    "PickCount": 3,
-                    "BagsFull": 2.75
+                    "siteId": "1284",
+                    "totalPickCount": 1,
+                    "totalBagsFull": 4
                 },
                 {
-                    "SiteId": "2060",
-                    "PickCount": 1,
-                    "BagsFull": 1
-                }
-            ],
-            "WardRecap": [
-                {
-                    "WardId": "15",
-                    "PickCount": 3
+                    "siteId": "3383",
+                    "totalPickCount": 2,
+                    "totalBagsFull": 3
                 },
                 {
-                    "WardId": "13",
-                    "PickCount": 1
+                    "siteId": "7948",
+                    "totalPickCount": 1,
+                    "totalBagsFull": 1
                 }
             ],
-            "TopSite": 1824,
-            "TopWard": 15,
-            "ReportRecap": [
-                {
-                    "ObjectType": "Balloon",
-                    "DateTime": "DT VALUE"
-                },
-                {
-                    "ObjectType": "Trolley",
-                    "DateTime": "DT VALUE"
-                }
-            ],
-            "BalloonCount": 1,
-            "TrolleyCount": 1
+            "topWard": null
         }
-    ]
+    ],
+    "_rid": "7zoyAKz6APUNAAAAAAAAAA==",
+    "_self": "dbs/7zoyAA==/colls/7zoyAKz6APU=/docs/7zoyAKz6APUNAAAAAAAAAA==/",
+    "_etag": "\"1d003e56-0000-1100-0000-6697e4050000\"",
+    "_attachments": "attachments/",
+    "_ts": 1721230341
 }
