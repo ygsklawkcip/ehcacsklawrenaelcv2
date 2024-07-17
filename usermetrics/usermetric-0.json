@@ -58,16 +58,16 @@
             "topBagsFullWard": 13,
             "landTypesVisited": [
                 {
-                    "landType": 1,
-                    "count": 5
+                    "id": 1,
+                    "count": 19
                 },
                 {
-                    "landType": 2,
+                    "id": 2,
                     "count": 12
                 },
                 {
-                    "landType": 5,
-                    "count": 1
+                    "id": 3,
+                    "count": 21
                 }
             ]
         }
