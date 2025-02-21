@@ -1,0 +1,425 @@
+{
+    "id": "master",
+    "GrandTotal": {
+        "name": "grandTotal",
+        "totalSubmissions": 200,
+        "perTypeMetrics": [
+            {
+                "type": 2,
+                "total": 50,
+                "purposeMetrics": [
+                    {
+                        "purpose": 0,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 1,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 2,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 3,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 4,
+                        "total": 0
+                    }
+                ]
+            },
+            {
+                "type": 1,
+                "total": 150,
+                "purposeMetrics": [
+                    {
+                        "purpose": 0,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 1,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 2,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 3,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 4,
+                        "total": 0
+                    }
+                ]
+            },
+            {
+                "type": 3,
+                "total": 0,
+                "purposeMetrics": [
+                    {
+                        "purpose": 0,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 1,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 2,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 3,
+                        "total": 0
+                    },
+                    {
+                        "purpose": 4,
+                        "total": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "YearlyTotals": [
+        {
+            "name": "year_2024",
+            "totalSubmissions": 0,
+            "perTypeMetrics": [
+                {
+                    "type": 2,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "type": 3,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "year_2023",
+            "totalSubmissions": 0,
+            "perTypeMetrics": [
+                {
+                    "type": 2,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "type": 3,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "year_2022",
+            "totalSubmissions": 0,
+            "perTypeMetrics": [
+                {
+                    "type": 2,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "type": 3,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "year_2021",
+            "totalSubmissions": 0,
+            "perTypeMetrics": [
+                {
+                    "type": 2,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "type": 1,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                },
+                {
+                    "type": 3,
+                    "total": 0,
+                    "purposeMetrics": [
+                        {
+                            "purpose": 0,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 1,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 2,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 3,
+                            "total": 0
+                        },
+                        {
+                            "purpose": 4,
+                            "total": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
